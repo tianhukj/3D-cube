@@ -1,5 +1,5 @@
 ![image](https://github.com/tianhukj/3D-cube/assets/166341634/891b0140-9614-4646-9354-6060a7baccbe)
-
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 
 3D魔方小游戏
 ![image](https://github.com/tianhukj/cc/assets/166341634/36090d1f-6a45-42db-bd28-11f3ff030cad)
